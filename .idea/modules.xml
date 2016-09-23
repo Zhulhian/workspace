@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cslib/cslib.iml" filepath="$PROJECT_DIR$/cslib/cslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w04_pirates/w04_pirates.iml" filepath="$PROJECT_DIR$/w04_pirates/w04_pirates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w05_shuffle/w05_shuffle.iml" filepath="$PROJECT_DIR$/w05_shuffle/w05_shuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w06_turtlegraphics/w06_turtlegraphics.iml" filepath="$PROJECT_DIR$/w06_turtlegraphics/w06_turtlegraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w07_turtlerace_team/w07_turtlerace_team.iml" filepath="$PROJECT_DIR$/w07_turtlerace_team/w07_turtlerace_team.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w08_chords_team/w08_chords_team.iml" filepath="$PROJECT_DIR$/w08_chords_team/w08_chords_team.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w09_maze/w09_maze.iml" filepath="$PROJECT_DIR$/w09_maze/w09_maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w10_survey/w10_survey.iml" filepath="$PROJECT_DIR$/w10_survey/w10_survey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w11_lthopoly_team/w11_lthopoly_team.iml" filepath="$PROJECT_DIR$/w11_lthopoly_team/w11_lthopoly_team.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w12_life/w12_life.iml" filepath="$PROJECT_DIR$/w12_life/w12_life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w13_bank_proj/w13_bank_proj.iml" filepath="$PROJECT_DIR$/w13_bank_proj/w13_bank_proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w13_img_proj/w13_img_proj.iml" filepath="$PROJECT_DIR$/w13_img_proj/w13_img_proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w13_tictactoe_proj/w13_tictactoe_proj.iml" filepath="$PROJECT_DIR$/w13_tictactoe_proj/w13_tictactoe_proj.iml" />
+    </modules>
+  </component>
+</project>
